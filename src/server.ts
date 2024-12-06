@@ -7,5 +7,4 @@ app.listen(PORT, () => {
   console.log(`Server listening on http://localhost:${PORT}`);
 });
 
-let message = 'hello world';
-message = "50";
+
